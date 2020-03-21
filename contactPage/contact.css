@@ -1,0 +1,24 @@
+.contact-page {
+  background-color: #e4c79f;
+}
+.form-control {
+  background-color: #f4f1f2;
+  width: 100%;
+}
+.form-control:hover {
+  background-color: #f4f1f2;
+}
+.message {
+  margin-top: 77px;
+}
+textarea.form-control {
+  height: 150px;
+  width: 415px;
+}
+span.contactInfo {
+  margin-bottom: 20px;
+}
+/* .submit {
+  height: 20px;
+  margin-bottom: 10px;
+} */

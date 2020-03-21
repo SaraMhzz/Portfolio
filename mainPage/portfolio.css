@@ -1,0 +1,36 @@
+body,
+html {
+  height: 100%;
+}
+
+.nav-item {
+  color: #f4f1f2;
+}
+.nav-item:hover {
+  color: darkorange;
+}
+.drop-item:hover {
+  color: darkorange;
+}
+.dropdown-menu {
+  background-color: #e4c79f;
+}
+.icons a {
+  color: #f4f1f2;
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 14px;
+}
+.icons a:hover {
+  color: darkorange;
+}
+.main-page {
+  /* background-color: #e4c79f; */
+  height: 100%;
+  background-image: url("http://uupload.ir/files/s7oj_seashell-in-love-kristin-ll5xcfs6q0o-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* background-image: url("http://uupload.ir/files/5kqt_marra-sherrier-m7ft6orezfi-unsplash.jpg"); */
